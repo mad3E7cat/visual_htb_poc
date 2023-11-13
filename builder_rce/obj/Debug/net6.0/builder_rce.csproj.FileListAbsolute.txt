@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\bin\Debug\net6.0\builder_rce.exe
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\bin\Debug\net6.0\builder_rce.deps.json
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\bin\Debug\net6.0\builder_rce.runtimeconfig.json
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\bin\Debug\net6.0\builder_rce.dll
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\bin\Debug\net6.0\builder_rce.pdb
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\builder_rce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\builder_rce.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\builder_rce.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\builder_rce.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\builder_rce.dll
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\refint\builder_rce.dll
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\builder_rce.pdb
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\builder_rce.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\builder_rce\builder_rce\obj\Debug\net6.0\ref\builder_rce.dll
